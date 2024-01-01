@@ -1,20 +1,26 @@
-<h1>👋 I'm Christopher Solito! <br </h1>     
+<h1>👋 I'm Christopher Solito! <br/> </h1>     
                           
-  <a href="https://www.linkedin.com/in/christopher-solito-a12826214/">Full Stack Web Developer</a>
+ <h2><a href="https://www.linkedin.com/in/christopher-solito-a12826214/">Full Stack Web Developer</a></h2>
 
-  <h2> 🤳 Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/christopher-solito-a12826214/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+
+<h2> 🤳 Connect with me:
+     &#8287;<a href="https://www.linkedin.com/in/christopher-solito-a12826214/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
          &#8287;&#8287;&#8287;
         <a href="mailto: ch15solito@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
         &#8287;&#8287;&#8287;
+</h2>
 
+<br/>
   
 <h2>👨‍💻 Web Application Projects:</h2>
+
 - <b>Visual Novel Quiz Game (Unity Engine, C#)</b>
+
   - [Doc Knows](https://github.com/chsolito15/Doc-knows-project) <i><b>(Capstone Project)</b></i>
   - The game story of visual novel with features of quiz game, where players take on the role of virtual doctor, and they must pick the medicine to cure various illnesses.
   
 - <b>Full Stack Web App (Bootstrap, JavaScript, Jquery, Ajax, PHP, MySql)</b>
+
   - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <i><b>(Thesis project)</b></i>
   - Point of Sale System Project in PHP focuses mainly on managing inventories, tracking sales, and much more, The system helps to keep track of all goods information along with their categories.
 
