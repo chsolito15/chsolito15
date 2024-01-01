@@ -3,12 +3,12 @@
  
 <h2>👨‍💻 Web Application Projects:</h2>
 
-- <b>Visual Novel Quiz Game (Capstone Project)</b>
-  - [Doc Knows](https://github.com/chsolito15/Doc-knows-project)
+- <b>Visual Novel Quiz Game (Unity Engine, C#)</b>
+  - [Doc Knows](https://github.com/chsolito15/Doc-knows-project) <i><b>Capstone Project</b></i>
   - The game story of visual novel with features of quiz game, where players take on the role of virtual doctor, and they must pick the medicine to cure various illnesses.
   
 - <b>Full Stack Web App (Bootstrap, JavaScript, Jquery, Ajax, PHP, MySql)</b>
-  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <b>(Thesis proeject)</b>
+  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <i><b>(Thesis proeject)</b></i>
 
 <h2>📄 Certifications</h2>
 
