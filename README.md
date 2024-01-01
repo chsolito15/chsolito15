@@ -28,10 +28,18 @@
 - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc1c1f4f2d-878c-43da-bf5d-5f9bdc47c59a/responsive-web-design)
 - [#InDemandPh training on JAVASCRIPT PROGRAMMING](https://drive.google.com/file/d/1-F1y1-DLPsDLKkyQ0YtUcVveI36uYXn7/view?usp=sharing)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Languages and Tools:</h2>
      &#8287;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="32px" alt="JavaScript" title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/></a>
          &#8287;&#8287;&#8287;
-        <a href="https://www.php.net/docs.php"><img width="32px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/></a>
+        <a href="https://www.php.net/docs.php"><img width="100px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/></a>
+        &#8287;&#8287;&#8287;
+          <a href="https://dev.mysql.com/doc/"><img width="100px" alt="Mysql" title="Mysql" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/></a>
+        &#8287;&#8287;&#8287;
+          <a href="https://getbootstrap.com/"><img width="50" alt="bootstrap" title="bootstrap" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/></a>
+        &#8287;&#8287;&#8287;
+          <a href="https://api.jquery.com/"><img width="100px" alt="Jquery" title="Jquery" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/></a>
+        &#8287;&#8287;&#8287;
+          <a href="https://www.w3schools.com/xml/ajax_intro.asp"><img width="100px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg"/></a>
         &#8287;&#8287;&#8287;
 
 
