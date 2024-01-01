@@ -9,6 +9,7 @@
   
 - <b>Full Stack Web App (Bootstrap, JavaScript, Jquery, Ajax, PHP, MySql)</b>
   - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <i><b>(Thesis project)</b></i>
+  - Point of Sale System Project in PHP focuses mainly on managing inventories, tracking sales, and much more, The system helps to keep track of all goods information along with their categories.
 
 <h2>📄 Certifications</h2>
 
