@@ -1,7 +1,7 @@
 <h1>👋 I'm Christopher Solito! <br/>
   <a href="https://www.linkedin.com/in/christopher-solito-a12826214/">Full Stack Web Developer</a>
  
-<h2>👨‍💻 Web Application Development Projects:</h2>
+<h2>👨‍💻 Web Application Projects:</h2>
 
 - <b>Visual Novel Quiz Game (Capstone Project)</b>
   - [Doc Knows](https://github.com/chsolito15/Doc-knows-project)
