@@ -39,11 +39,16 @@
         &#8287;&#8287;&#8287;
           <a href="https://api.jquery.com/"><img width="100px" alt="Jquery" title="Jquery" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/></a>
         &#8287;&#8287;&#8287;
-          <a href="https://www.w3schools.com/xml/ajax_intro.asp"><img width="100px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg"/></a>
+          <a href="https://www.w3schools.com/xml/ajax_intro.asp"><img width="100px" alt="AJAX" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg"/></a>
+        &#8287;&#8287;&#8287;
+         <a href="https://laravel.com/"><img width="80px" alt="Laravel" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png"/></a>
+        &#8287;&#8287;&#8287;
+         <a href="https://unity.com/"><img width="80px" alt="Laravel" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/></a>
         &#8287;&#8287;&#8287;
 
 
 
+        
 
 <!--
 **chsolito15/chsolito15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
