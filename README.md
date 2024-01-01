@@ -9,8 +9,6 @@
         <a href="mailto: ch15solito@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
         &#8287;&#8287;&#8287;
 </h2>
-
-<br/>
   
 <h2>👨‍💻 Web Application Projects:</h2>
 
@@ -29,6 +27,13 @@
 - [Javascript Algorithms and data Structures](https://www.freecodecamp.org/certification/fcc1c1f4f2d-878c-43da-bf5d-5f9bdc47c59a/javascript-algorithms-and-data-structures)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc1c1f4f2d-878c-43da-bf5d-5f9bdc47c59a/responsive-web-design)
 - [#InDemandPh training on JAVASCRIPT PROGRAMMING](https://drive.google.com/file/d/1-F1y1-DLPsDLKkyQ0YtUcVveI36uYXn7/view?usp=sharing)
+
+<h2> 🤳 Connect with me:</h2>
+     &#8287;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="32px" alt="JavaScript" title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/></a>
+         &#8287;&#8287;&#8287;
+        <a href="https://www.php.net/docs.php"><img width="32px" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/></a>
+        &#8287;&#8287;&#8287;
+
 
 
 
