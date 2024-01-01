@@ -48,7 +48,7 @@
          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img width="50px" alt="C_sharp" title="C_sharp" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/></a>
         &#8287;&#8287;&#8287;
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsolito15)](https://github.com/chsolito15/github-readme-stats)
 
         
 
