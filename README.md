@@ -8,7 +8,7 @@
   - The game story of visual novel with features of quiz game, where players take on the role of virtual doctor, and they must pick the medicine to cure various illnesses.
   
 - <b>Full Stack Web App (Bootstrap, JavaScript, Jquery, Ajax, PHP, MySql)</b>
-  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <b><i>(Thesis proeject)</b></i>
+  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <b>(Thesis proeject)</b>
 
 <h2>📄 Certifications</h2>
 
