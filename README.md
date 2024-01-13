@@ -1,6 +1,6 @@
 <h1>👋 I'm Christopher Solito! <br/> </h1>     
                           
- <h2><a href="https://www.linkedin.com/in/christopher-solito-a12826214/">Full Stack Web Developer</a></h2>
+ <h2><a href="https://www.linkedin.com/in/christopher-solito-a12826214/">Web Developer</a></h2>
 
 
 <h2> 🤳 Connect with me:
