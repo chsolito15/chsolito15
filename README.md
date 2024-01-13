@@ -14,12 +14,12 @@
 
 - <b>Visual Novel Quiz Game (Unity Engine, C#)</b>
 
-  - [Doc Knows](https://github.com/chsolito15/Doc-knows-project) <i><b>(Capstone Project)</b></i>
+  - [Doc Knows](https://github.com/chsolito15/Doc-knows-project) 
   - The game story of visual novel with features of quiz game, where players take on the role of virtual doctor, and they must pick the medicine to cure various illnesses.
   
 - <b>Full Stack Web App (Bootstrap, JavaScript, Jquery, Ajax, PHP, MySql)</b>
 
-  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) <i><b>(Thesis project)</b></i>
+  - [POS SYSTEM](https://github.com/chsolito15/POSYSTEM) 
   - Point of Sale System Project in PHP focuses mainly on managing inventories, tracking sales, and much more, The system helps to keep track of all goods information along with their categories.
 
 <h2>📄 Certifications</h2>
