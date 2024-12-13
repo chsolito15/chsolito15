@@ -52,7 +52,7 @@
 <h1></h1>
 <a href="https://expressjs.com/"><img width="100px" alt="express" title="express" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
           &#8287;&#8287;&#8287;
-                   <a href="https://www.mongodb.com"><img width="100px" alt="mongodb" title="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
+                   <a href="https://www.mongodb.com"><img width="100px" alt="mongodb" title="mongodb" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/></a>
           &#8287;&#8287;&#8287;
         
 <h1>## 🔥 Github Stats</h1>
