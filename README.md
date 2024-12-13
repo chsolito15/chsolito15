@@ -47,7 +47,7 @@
         &#8287;&#8287;&#8287;
          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img width="50px" alt="C_sharp" title="C_sharp" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/></a>
         &#8287;&#8287;&#8287;
-        <a href="https://nodejs.org/en"><img width="20px" alt="Nodejs" title="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/></a>
+        <a href="https://nodejs.org/en"><img width="50px" alt="Nodejs" title="Nodejs" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/></a>
           &#8287;&#8287;&#8287;
         
 <h1>## 🔥 Github Stats</h1>
