@@ -50,6 +50,8 @@
           &#8287;&#8287;&#8287;
           <a href="https://www.docker.com/"><img width="100px" alt="docker" title="docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/></a>
           &#8287;&#8287;&#8287;
+          <a href="https://nginx.org/"><img width="100px" alt="nginx" title="nginx" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg"/></a>
+          &#8287;&#8287;&#8287;
         
 <h1>## 🔥 Github Stats</h1>
 
