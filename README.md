@@ -38,7 +38,7 @@
         &#8287;&#8287;&#8287;
           <a href="https://getbootstrap.com/"><img width="50" alt="bootstrap" title="bootstrap" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/></a>
         &#8287;&#8287;&#8287;
-          <a href="https://api.jquery.com/"><img width="100px" alt="Jquery" title="Jquery" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/></a>
+          <a href="https://api.jquery.com/"><img width="100px" alt="Jquery" title="Jquery" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg"/></a>
         &#8287;&#8287;&#8287;
           <a href="https://www.w3schools.com/xml/ajax_intro.asp"><img width="100px" alt="AJAX" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg"/></a>
         &#8287;&#8287;&#8287;
